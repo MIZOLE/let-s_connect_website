@@ -1,0 +1,195 @@
+body {
+    /* background-blend-mode: color; */
+    /* background-image: url("back3.jpeg"); */
+    background-color: rgba(223, 139, 139, 0.116);
+  color: rgb(82, 49, 49)   ;
+    background-repeat: round;
+    background-size: cover
+}
+
+.top_header {
+    background-color: rgb(204, 200, 166);
+    margin: 2em;
+    padding: 2em;
+        
+}
+
+.ani_exa {
+    transform: rotate(20deg);
+
+}
+
+
+
+.our_name {
+    font-size: 30px;
+    color: rgb(204, 200, 166);
+    
+   
+}
+
+
+
+
+
+.footer {
+
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(190, 162, 171);
+}
+
+.logo {
+
+    text-align: left;
+}
+
+
+/* Add a black background color to the top navigation  */
+.topnav {
+    background-color: rgb(179, 226, 245);
+    overflow: visible;
+    font-size: 2em;
+    position: sticky;
+    text-align: right;
+    float: right;
+
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14pX 16px;
+    text-decoration: wavy;
+    font-size: 3em;
+    font-size: .75em !Important;
+    text-align: center;
+}
+
+
+/*  Change the color of links on hove */
+.topnav a:hover {
+    background-color: lemonchiffon;
+    color: gold;
+}
+
+/* //add color to actve link */
+.topnav a.active {
+    background-color: rgb(204, 200, 166)    ;
+    color: rgb(96, 218, 218);
+}
+
+.customers {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+
+.statement {
+    background-color: #f0f0fc;
+    font-size: 20px;
+    margin: 2em;
+
+
+}
+
+.about {
+    margin-bottom: 2em;
+    font-size: 20px;
+    margin: 2em;
+}
+
+.goals {
+    margin-bottom: 2em;
+    background-color:rgb(204, 200, 166)  ;
+    font-size: 20px;
+    margin: 2em;
+}
+h1 {
+    color: lemonchiffon;
+    background-color: rgb(204, 200, 166);
+    padding: left;
+    
+}
+
+h2 {
+    font-size: 45px;
+    background-color: rgb(204, 200, 166)    ;
+    color: lemonchiffon;
+}
+
+.vision {
+    margin-bottom: 2em;
+    /* background-color: rgb(204, 200, 166) ; */
+    font-size: 20px;
+    margin: 2em;
+}
+
+.mission {
+    margin-bottom: 2em;
+    background-color: rgb(204, 200, 166)    ;
+    font-size: 20px;
+    margin: 2em;
+}
+
+.target {
+    background-color: rgb(126, 151, 126);
+}
+
+.school {
+    background-color: rgb(204, 200, 166)    ;
+}
+
+.flat_link {
+    font-size: 2em;
+    border: 1pt;
+    border-style: groove;
+    background-color: rgb(126, 151, 126);
+    padding-left: 2em;
+}
+
+button {
+    background-color: rgb(204, 200, 166)    ;
+    font-size: 25px;
+}
+
+.community_link {
+    font-size: 2em;
+    border: 1pt;
+    border-style: groove;
+    background-color: rgb(126, 151, 126);
+    padding-left: 2em;
+}
+
+.school_link {
+    font-size: 2em;
+    border: 1pt;
+    border-style: groove;
+    background-color: rgb(126, 151, 126);
+    padding-left: 2em;
+}
+
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: beige;
+    font-size: 30px;
+}
+
+.top {
+    background-color: #f0f0fc;
+    font-size: 20px;
+    margin: 2em;
+
+}
+
+
+/* .socials {
+    display: flex;
+} */
+
